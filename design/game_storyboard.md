@@ -7,25 +7,25 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Fantasy Castle Adventure
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+A dangerous dragon has taken control of the castle and is hiding in the Dragon’s Lair. The player begins at the Grand Entrance and must explore the castle to collect six important items: a compass, book, sandwich, key, magic scroll, and dragon shield. The player must travel through the different rooms, collect all of the items, and avoid the Dragon’s Lair until everything has been gathered. Once all six items have been collected, the player can enter the Dragon’s Lair and confront the dragon.
+
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Grand Entrance
+2. Ancient Map Gallery - Item: Compass
+3. Library - Item: Book
+4. Dining Room - Item: Sandwich
+5. Kitchen - Item: Key
+6. Royal Study - Item: Magic Scroll 
+7. Treasure Chamber - Item: Dragon Shield 
+8. Dragon's Lair - Villain: Dragon
 
 Add more rooms if your design needs them.
 
@@ -34,31 +34,31 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Compass
+2. Book
+3. Sandwich
+4. Key
+5. Magic Scroll
+6. Dragon Shield
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+Dragon — A dangerous dragon that has taken over the castle and guards the Dragon’s Lair.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
+* [x] I included eight (8) rooms.
+* [x] I included six (6) collectable items.
+* [x] The start room has no item.
+* [x] The villain room has no item.
+* [x] Every room except the start room and villain room contains one item.
+* [x] Room, item, and villain names match my map.
+* [x] The map allows the player to collect all required items before the
   villain is encountered.
 
 ## Project Two Handoff
